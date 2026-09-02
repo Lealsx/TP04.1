@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Filmes Favoritos</string>
+    <string name="title_directed_by">Diretor: %1$s</string>
+    <string name="add_movie">Adicionar filme</string>
+    <string name="movie_title_hint">Título do filme</string>
+    <string name="movie_director_hint">Diretor</string>
+    <string name="add">Adicionar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="empty_fields_error">Preencha o título e o diretor</string>
+    <string name="toggle_layout">Alternar layout</string>
+    <string name="empty_list">Nenhum filme adicionado ainda. Toque em + para adicionar.</string>
+</resources>
