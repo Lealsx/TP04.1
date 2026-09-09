@@ -47,6 +47,7 @@ dependencies {
     implementation(libs.androidx.constraintlayout)
     implementation("androidx.recyclerview:recyclerview:1.3.2")
     implementation("androidx.coordinatorlayout:coordinatorlayout:1.2.0")
+    implementation(libs.glide)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
