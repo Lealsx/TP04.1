@@ -1,12 +1,26 @@
 <resources>
-    <string name="app_name">Filmes Favoritos</string>
-    <string name="title_directed_by">Diretor: %1$s</string>
-    <string name="add_movie">Adicionar filme</string>
+    <string name="app_name">Meu Catálogo de Filmes</string>
+
+    <!-- Login -->
+    <string name="username_hint">Usuário</string>
+    <string name="password_hint">Senha</string>
+    <string name="enter">Entrar</string>
+    <string name="login_error">Usuário ou senha inválidos</string>
+
+    <!-- Cadastro -->
+    <string name="register_movie">Cadastrar filme</string>
     <string name="movie_title_hint">Título do filme</string>
-    <string name="movie_director_hint">Diretor</string>
-    <string name="add">Adicionar</string>
-    <string name="cancel">Cancelar</string>
-    <string name="empty_fields_error">Preencha o título e o diretor</string>
-    <string name="toggle_layout">Alternar layout</string>
-    <string name="empty_list">Nenhum filme adicionado ainda. Toque em + para adicionar.</string>
+    <string name="movie_genre_hint">Gênero</string>
+    <string name="poster_url_hint">URL do poster</string>
+    <string name="save">Salvar</string>
+    <string name="view_list">Ver lista</string>
+    <string name="movie_saved">Filme salvo com sucesso</string>
+    <string name="empty_fields_error">Preencha todos os campos</string>
+
+    <!-- Lista -->
+    <string name="movie_list">Lista de Filmes</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Excluir</string>
+    <string name="edit_not_available">Edição ainda não disponível</string>
+    <string name="empty_list">Nenhum filme cadastrado ainda.</string>
 </resources>
